@@ -1,0 +1,13 @@
+// This is a comment
+GAME "Asian Challenge";
+MAX_LIVES 3;
+
+LEVEL 1;
+TARGET "INDIA";
+HINT "I__d_a";
+SOLVE;
+
+LEVEL 2;
+TARGET "PAKISTAN";
+HINT "P_k_st_n";
+SOLVE;

@@ -1,0 +1,24 @@
+@"
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyc
+
+# IDE / OS artifacts
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VSCode
+.vscode/
+
+# Idea
+.idea/
+
+# Other
+*.log
+"@ > .gitignore
